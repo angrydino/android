@@ -12,8 +12,12 @@
            sync-j="4" />
 
   <remote  name="cr"
-           fetch="git://github.com/angrydino/"
+           fetch="git://github.com/CarbonDev/"
            review="androidhosting.org:8080" 
+           sync-j="4" />
+           
+  <remote  name="ad"
+           fetch="git://github.com/angrydino/"
            sync-j="4" />
 
   <remote  name="tm"
