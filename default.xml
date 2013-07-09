@@ -64,39 +64,20 @@
   <project path="dalvik" name="android_dalvik" remote="cr" revision="jb2" />
   <project path="development" name="android_development" remote="cr" revision="jb2" />
   <project path="device/common" name="CyanogenMod/android_device_common" remote="cm" revision="cm-10.1" />
-  <project path="device/htc/msm8960-common" name="CyanogenMod/android_device_htc_msm8960-common" remote="cm" revision="cm-10.1" />
   <project path="device/htc/m7-common" name="android_device_htc_m7-common" remote="cr" revision="jb2" />
-  <project path="device/htc/m7att" name="android_device_htc_m7att" remote="cr" revision="jb2" />
-  <project path="device/htc/m7ul" name="android_device_htc_m7ul" remote="cr" revision="jb2" />
-  <project path="device/htc/m7spr" name="android_device_htc_m7spr" remote="cr" revision="jb2" />
   <project path="device/htc/m7tmo" name="android_device_htc_m7tmo" remote="cr" revision="jb2" />
   <project path="device/lge/mako" name="android_device_lge_mako" remote="cr" revision="jb2" />
-  <project path="device/samsung/celox-common" name="android_device_samsung_celox-common" remote="cr" revision="jb2" />
   <project path="device/samsung/d2-common" name="android_device_samsung_d2-common" remote="cr" revision="jb2" />
-  <project path="device/samsung/d2att" name="android_device_samsung_d2att" remote="cr" revision="jb2" />
-  <project path="device/samsung/d2cri" name="android_device_samsung_d2cri" remote="cr" revision="jb2" />
-  <project path="device/samsung/d2mtr" name="android_device_samsung_d2mtr" remote="cr" revision="jb2" />
-  <project path="device/samsung/d2spr" name="android_device_samsung_d2spr" remote="cr" revision="jb2" />
-  <project path="device/samsung/d2tmo" name="android_device_samsung_d2tmo" remote="cr" revision="jb2" />
-  <project path="device/samsung/d2usc" name="android_device_samsung_d2usc" remote="cr" revision="jb2" />
   <project path="device/samsung/d2vzw" name="android_device_samsung_d2vzw" remote="cr" revision="jb2" />
   <project path="device/samsung/i605" name="android_device_samsung_i605" remote="cr" revision="jb2" />
-  <project path="device/samsung/l900" name="android_device_samsung_l900" remote="cr" revision="jb2" />
-  <project path="device/samsung/jflteatt" name="android_device_samsung_jflteatt" remote="cr" revision="cm-10.1" />  
+  <project path="device/samsung/l900" name="android_device_samsung_l900" remote="cr" revision="jb2" /> 
   <project path="device/samsung/jf-common" name="android_device_samsung_jf-common" remote="cr" revision="jb2" />
-  <project path="device/samsung/jfltetmo" name="android_device_samsung_jfltetmo" remote="cr" revision="cm-10.1" />
-  <project path="device/samsung/jfltespr" name="android_device_samsung_jfltespr" remote="cr" revision="cm-10.1" />
-  <project path="device/samsung/jflteusc" name="android_device_samsung_jflteusc" remote="cr" revision="jb2" />
   <project path="device/samsung/jfltevzw" name="android_device_samsung_jfltevzw" remote="cr" revision="jb2" />
-  <project path="device/samsung/jfltexx" name="android_device_samsung_jfltexx" remote="cr" revision="jb2" />
   <project path="device/samsung/maguro" name="android_device_samsung_maguro" remote="cr" revision="jb2" />
-  <project path="device/samsung/msm8660-common" name="android_device_samsung_msm8660-common" remote="cr" revision="jb2" />
   <project path="device/samsung/msm8960-common" name="android_device_samsung_msm8960-common" remote="cr" revision="cm-10.1" />
   <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" remote="cm" revision="cm-10.1" />
   <project path="device/samsung/toro" name="android_device_samsung_toro" remote="cr" revision="jb2" />
-  <project path="device/samsung/toroplus" name="android_device_samsung_toroplus" remote="cr" revision="jb2" />
   <project path="device/samsung/t0lte" name="android_device_samsung_t0lte" remote="cr" revision="jb2" />
-  <project path="device/samsung/t0lteatt" name="android_device_samsung_t0lteatt" remote="cr" revision="jb2" />
   <project path="device/samsung/t0ltetmo" name="android_device_samsung_t0ltetmo" remote="cr" revision="jb2" />
   <project path="device/samsung/tuna" name="android_device_samsung_tuna" remote="cr" revision="jb2" />
   <project path="external/aac" name="platform/external/aac" />
@@ -318,7 +299,6 @@
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" remote="cm" revision="cm-10.1" />
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" remote="cm" revision="cm-10.1" />
   <project path="kernel/htc/m7" name="CyanogenMod/android_kernel_htc_m7" remote="cm" revision="cm-10.1" />
-  <project path="kernel/htc/msm8960" name="CyanogenMod/android_kernel_htc_msm8960" remote="cm" revision="cm-10.1" />
   <project path="kernel/lge/mako" name="lge-kernel-mako" remote="nc" revision="jellybean" />
   <project path="kernel/samsung/d2" name="CyanogenMod/android_kernel_samsung_d2" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/jf" name="CyanogenMod/android_kernel_samsung_jf" remote="cm" revision="cm-10.1" />  
