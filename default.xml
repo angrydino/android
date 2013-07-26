@@ -445,7 +445,7 @@
   <project path="vendor/audience" name="proprietary_vendor_audience" remote="tm" revision="cm-10.1" />
   <project path="vendor/asus" name="proprietary_vendor_asus" remote="tm" revision="cm-10.1" />
   <project path="vendor/bn" name="proprietary_vendor_bn" remote="tm" revision="cm-10.1" />
-  <project path="vendor/broadcom" name="proprietary_vendor_broadcom" remote="ad" revision="jb3" />
+  <project path="vendor/broadcom" name="proprietary_vendor_broadcom" remote="tm" revision="cm-10.2" />
   <project path="vendor/carbon" name="android_vendor_carbon" remote="ad" revision="jb3" />
   <project path="vendor/elan" name="proprietary_vendor_elan" remote="tm" revision="cm-10.1" />
   <project path="vendor/htc" name="proprietary_vendor_htc" remote="cr" revision="jb2" />
@@ -456,6 +456,5 @@
   <project path="vendor/nxp" name="proprietary_vendor_nxp" remote="tm" revision="cm-10.2" />
   <project path="vendor/oppo" name="proprietary_vendor_oppo" remote="tm" revision="cm-10.1" />
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="tm" revision="cm-10.2" />
-  <project path="vendor/qcom" name="proprietary_vendor_qcom" remote="ad" revision="jb3" />
   <project path="vendor/widevine" name="proprietary_vendor_widevine" remote="tm" revision="cm-10.2" />
 </manifest>
