@@ -88,6 +88,8 @@
   <project path="device/lge/mako" name="android_device_lge_mako" remote="ad" revision="jb3" />
   <project path="device/lge/mako-kernel" name="device/lge/mako-kernel" groups="device,mako" revision="refs/tags/android-4.3_r2.1_" />
   <project path="device/sample" name="device/sample" groups="pdk" />
+  <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" remote="cm" revision="cm-10.2" />
+  <project path="device/samsung/infuse4g" name="android_device_samsung_infuse4g" remote="ad" revision="jb3" />
   <project path="device/samsung/jf-common" name="android_device_samsung_jf-common" remote="ad" revision="cm-10.2" />
   <project path="device/samsung/jfltevzw" name="android_device_samsung_jfltevzw" remote="ad" revision="cm-10.2" />
   <project path="device/samsung/maguro" name="device/samsung/maguro" groups="device,tuna" />
@@ -457,7 +459,7 @@
   <project path="tools/build" name="platform/tools/build" groups="notdefault,tools" />
   <project path="tools/emulator" name="platform/tools/emulator" groups="notdefault,tools" />
   <project path="tools/external/fat32lib" name="platform/tools/external/fat32lib" groups="tools" />
-<project path="external/google" name="CyanogenMod/android_external_google" remote="cm" revision="cm-10.2" />
+  <project path="external/google" name="CyanogenMod/android_external_google" remote="cm" revision="cm-10.2" />
   <project path="tools/external/gradle" name="platform/tools/external/gradle" groups="notdefault,tools" />
   <project path="tools/idea" name="platform/tools/idea" groups="notdefault,tools" />
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
