@@ -97,6 +97,7 @@
   <project path="device/samsung/manta" name="device/samsung/manta" groups="device,manta" />
   <project path="device/samsung/msm8960-common" name="CyanogenMod/android_device_samsung_msm8960-common" remote="cm" revision="cm-10.2" />
   <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" remote="cm" revision="cm-10.2" />
+  <project path="device/samsung/smdk4412-common" name="CyanogenMod/android_device_samsung_smdk4412-common" remote="cm" revision="cm-10.2" />
   <project path="device/samsung/toro" name="device/samsung/toro" groups="device,tuna" />
   <project path="device/samsung/toroplus" name="device/samsung/toroplus" groups="device,tuna" />
   <project path="device/samsung/tuna" name="device/samsung/tuna" groups="device,tuna" />
